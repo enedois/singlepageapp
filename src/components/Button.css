@@ -1,0 +1,11 @@
+button{
+    margin: 5px;
+    background-color: red;
+    padding: 4px;
+    border-radius: 7%;
+}
+
+button:hover{
+    background-color: greenyellow;
+    color: black;
+}
